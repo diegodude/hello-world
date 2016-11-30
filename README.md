@@ -1,2 +1,2 @@
 # hello-world
-hello
+Say hello git!
